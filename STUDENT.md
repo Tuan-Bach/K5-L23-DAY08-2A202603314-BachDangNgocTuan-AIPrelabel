@@ -1,13 +1,13 @@
 # Thông tin học viên
 
-- Họ và tên: <<>>
-- MSHV: <<>>
-- Lớp (L2 / L3 / khác): <<>>
-- Tài khoản GitHub: <<>>
-- Repo bài nộp (URL): <<>>
+- Họ và tên: Bạch Đăng Ngọc Tuấn
+- MSHV: 2A202603314
+- Lớp (L2 / L3 / khác): L2B
+- Tài khoản GitHub: Tuan-Bach
+- Repo bài nộp (URL): https://github.com/Tuan-Bach/K5-L23-DAY08-2A202603314-BachDangNgocTuan-AIPrelabel
 - Commit chốt bài (hash): <<>>
-- Máy: <<hệ điều hành, GPU (CUDA / MPS / không có)>>
-- CVAT (Docker): <<phiên bản, ví dụ v2.81.0>>
+- Máy: Windows 11 + WSL2 (Ubuntu 26.04), CPU (không có GPU)
+- CVAT (Docker): v2.81.0
 
 ## Kết quả tóm tắt (điền cuối bài; số lấy từ `submission/qc/*`, kèm mẫu số)
 
